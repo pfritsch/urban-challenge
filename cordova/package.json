@@ -1,0 +1,17 @@
+{
+    "name": "com.cim.urban_challenge",
+    "version": "1.0.0",
+    "displayName": "UrbanChallenge",
+    "cordova": {
+        "platforms": [
+            "ios"
+        ],
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        }
+    },
+    "dependencies": {
+        "cordova-ios": "~4.4.0",
+        "cordova-plugin-whitelist": "1"
+    }
+}
